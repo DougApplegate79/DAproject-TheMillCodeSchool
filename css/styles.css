@@ -1,0 +1,156 @@
+/* 
+Color Palette
+https://coolors.co/7a7978-02223c-b0e298-add3ff-6c0e23
+--sonic-silver: #7a7978ff;
+--oxford-blue: #02223cff;
+--granny-smith-apple: #b0e298ff;
+--baby-blue-eyes: #add3ffff;
+--burgundy: #6c0e23ff;
+*/
+
+
+/* Global Styles
+---------------------------------------*/
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  color: #7a7978ff;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+}
+img {
+  width: 150px;
+}
+h1 {
+  color: blue;
+  font-family: 'Playfair Display', serif;
+  font-size: 65px;
+  margin: 0 auto;
+}
+h2 {
+  color: green;
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  text-align: center;
+}
+.content-wrap {
+  max-width: 900px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.background {
+  background-image: url(../images/deskcamera-image.jpg);
+  background-size: cover;
+  padding-bottom: 100px;
+}
+/* Responsive
+---------------------------------------*/
+@media screen and (min-width: 750px) {
+  header, footer {
+    text-align: center;
+  }
+  .contact-list {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 749px) {
+  h1 {
+    font-size: 55px;
+    line-height: 0.9;
+    margin-bottom: 20px;
+  }
+.contact-list a {
+  padding: 3px;
+}
+    
+}
+
+/* Profile
+---------------------------------------*/
+header {
+  color: #add3ffff;
+}
+.example {
+  color: orangered
+}
+.example2 {
+  background: black;
+  color: aqua;
+}
+.example example2 {
+  font-size: 50px;
+}
+#example {
+  font-size: 100px;
+}
+
+/* Career Experience
+---------------------------------------*/
+
+.work-experience {
+  background-color: #b0e298ff;
+}
+
+/* Projects
+---------------------------------------*/
+
+.projects {
+  background-color: #add3ffff;
+}
+
+a {
+  color: black;
+}
+a:link {
+  color: orange
+}
+a:visited {
+  color: purple
+}
+.projects a {
+  color: orange;
+  background: rgb(139, 133, 133);
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+.projects a:hover {
+  background: rgba(139, 133, 133, 80%);
+}
+.container p a {
+  color: blueviolet;
+}
+section p a {
+  color: orange;
+}
+
+/* Education
+---------------------------------------*/
+
+
+/* Contact Info
+---------------------------------------*/
+footer {
+  background: gray;
+  color: #add3ffff;
+  padding: 20px;
+}
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+.contact-list a {
+  padding: 15px;
+  display: inline-block;
+}
