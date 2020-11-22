@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  color: #7a7978ff;
+  color: rgb(2, 10, 19);
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
@@ -47,13 +47,13 @@ img {
 }
 
 h1 {
-  color: blue;
+  color: #02223cff;
   font-family: 'Playfair Display', serif;
   font-size: 65px;
   margin: 0 auto;
 }
 h2 {
-  color: green;
+  color: #b0e298ff;
   margin: 0;
   font-family: 'Playfair Display', serif;
   font-size: 35px;
@@ -97,7 +97,7 @@ h2 {
 /* Profile
 ---------------------------------------*/
 header {
-  color: #add3ffff;
+  color: rgb(2, 10, 19);
 }
 .example {
   color: orangered
@@ -158,7 +158,10 @@ section p a {
 
 /* Education
 ---------------------------------------*/
-
+.education {
+  background-image: url(../Project_images/bookrow-greybkg.jpg);
+  background-size: cover;
+}
 
 /* Contact Info
 ---------------------------------------*/
