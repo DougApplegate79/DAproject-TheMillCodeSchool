@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\HelloWorld.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "c:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\DRA\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
