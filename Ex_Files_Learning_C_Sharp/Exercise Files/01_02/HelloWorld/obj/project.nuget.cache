@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/7opuY9QNZpSz1e8sO0Ixp76uQcjuc5TtH74Kqz+gpFgaT5easQstd+enyiUUAV5fgmAR3+hW399EBq71jhMA==",
+  "dgSpecHash": "lRj8NJNpvRJiwzkzYs8gXgOIKR0ODdMs/CeTVs6a3BeWQ/4pUJ8Qblv3qS47pR6aFpNNazkIFX3BNX0u4srLFg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\01_02\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
