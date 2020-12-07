@@ -1,0 +1,16 @@
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\JobCandidate.exe
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\JobCandidate.deps.json
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\JobCandidate.runtimeconfig.json
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\JobCandidate.runtimeconfig.dev.json
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\JobCandidate.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\ref\JobCandidate.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\bin\Debug\net5.0\JobCandidate.pdb
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.csprojAssemblyReference.cache
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.AssemblyInfoInputs.cache
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.AssemblyInfo.cs
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.csproj.CoreCompileInputs.cache
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\ref\JobCandidate.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.pdb
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\JobCandidate\obj\Debug\net5.0\JobCandidate.genruntimeconfig.cache
