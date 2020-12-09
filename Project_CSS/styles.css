@@ -52,7 +52,7 @@ h1 {
   font-size: 65px;
   margin: 0 auto;
 }
-h2 {
+h2.light-blue {
   color: #b0e298ff;
   margin: 0;
   font-family: 'Playfair Display', serif;
@@ -70,7 +70,17 @@ h2 {
   background-size: cover;
   padding: 2em;
 }
-/* Responsive
+
+h2.blue-text {
+  color: rgb(2, 10, 19);
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  text-align: center;
+}
+  
+
+  /* Responsive
 ---------------------------------------*/
 @media screen and (min-width: 750px) {
   header, footer {
@@ -103,8 +113,8 @@ header {
   color: orangered
 }
 .example2 {
-  background: black;
-  color: aqua;
+  color: rgb(2, 10, 19);
+  text-decoration-line: underline;
 }
 .example example2 {
   font-size: 50px;
@@ -127,14 +137,15 @@ header {
   background-color: #add3ffff;
 }
 
+}
 a {
   color: black;
 }
 a:link {
-  color: orange
+  color: rgb(123, 255, 0)
 }
 a:visited {
-  color: purple
+  color: rgba(229, 255, 0, 0.842)
 }
 
 /* ----- Button example style -----------------

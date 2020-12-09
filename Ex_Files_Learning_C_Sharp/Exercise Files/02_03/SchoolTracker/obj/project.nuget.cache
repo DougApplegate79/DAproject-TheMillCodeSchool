@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0a2PNX2WKGO2d0zCrCNtOMbKaRNZWEyvGQr9umozLml3UIRLpWvoNthO4vo+A8RJ/j5vCw0y6+p/O4MTmM+U1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DRA\\OneDrive\\Desktop\\The Mill Code School related\\themillcodeschool\\Ex_Files_Learning_C_Sharp\\Exercise Files\\02_03\\SchoolTracker\\SchoolTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
