@@ -1,0 +1,27 @@
+{
+  "runtimeTarget": {
+<<<<<<< HEAD:Ex_Files_Learning_C_Sharp/Exercise Files/01_02/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+    "name": ".NETCoreApp,Version=v2.0",
+=======
+    "name": ".NETCoreApp,Version=v5.0",
+>>>>>>> 24436d648b9dcd39f2cfbb317336504c28bb8188:Ex_Files_Learning_C_Sharp/Exercise Files/C sharp practice/bin/Debug/net5.0/C sharp practice.deps.json
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C sharp practice/1.0.0": {
+        "runtime": {
+          "C sharp practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C sharp practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

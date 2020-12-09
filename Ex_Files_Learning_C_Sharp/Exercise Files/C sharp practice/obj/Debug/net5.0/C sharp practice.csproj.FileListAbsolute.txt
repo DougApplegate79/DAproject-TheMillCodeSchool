@@ -1,0 +1,16 @@
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\C sharp practice.exe
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\C sharp practice.deps.json
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\C sharp practice.runtimeconfig.json
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\C sharp practice.runtimeconfig.dev.json
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\C sharp practice.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\ref\C sharp practice.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\bin\Debug\net5.0\C sharp practice.pdb
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.csprojAssemblyReference.cache
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.AssemblyInfoInputs.cache
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.AssemblyInfo.cs
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.csproj.CoreCompileInputs.cache
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\ref\C sharp practice.dll
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.pdb
+C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\themillcodeschool\Ex_Files_Learning_C_Sharp\Exercise Files\C sharp practice\obj\Debug\net5.0\C sharp practice.genruntimeconfig.cache
