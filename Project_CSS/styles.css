@@ -78,7 +78,13 @@ h2.blue-text {
   font-size: 35px;
   text-align: center;
 }
-  
+p.headline {
+  color: rgb(2, 10, 19);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.2;
+}  
 
   /* Responsive
 ---------------------------------------*/
@@ -123,13 +129,6 @@ header {
   font-size: 100px;
 }
 
-/* Career Experience
----------------------------------------*/
-
-.work-experience {
-  background-color: #b0e298ff;
-}
-
 /* Projects
 ---------------------------------------*/
 
@@ -147,7 +146,20 @@ a:link {
 a:visited {
   color: rgba(229, 255, 0, 0.842)
 }
+/* ---- Grid template for container and items ------*/
 
+.grid-container {
+  border: 2px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+}
+
+.grid-item {
+  border: 1px;
+  padding: 10px;
+  justify-content: space-around;
+}
 /* ----- Button example style -----------------
 -------*/
 .projects a {
@@ -167,6 +179,13 @@ section p a {
   color: orange;
 }
 
+/* Career Experience
+---------------------------------------*/
+
+.work-experience {
+  background-image: url(../Project_images/brick-wall-painted-white.jpg);
+  background-size: contain;
+}
 /* Education
 ---------------------------------------*/
 .education {
