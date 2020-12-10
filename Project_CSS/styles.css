@@ -236,10 +236,10 @@ a {
   color: black;
 }
 a:link {
-  color: rgb(123, 255, 0)
+  color: rgb(31, 5, 90)
 }
 a:visited {
-  color: rgba(229, 255, 0, 0.842)
+  color: rgba(175, 27, 27, 0.952)
 }
 /* ---- Grid template for container and items ------*/
 
@@ -283,7 +283,7 @@ section p a {
 }
 
 .pdfobject{
-  height: 30rem; 
+  height: 50rem;
   border: 1rem solid rgba(0,0,0,.1);
 }
 
