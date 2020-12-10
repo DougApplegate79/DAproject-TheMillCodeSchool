@@ -137,7 +137,7 @@ p.headline {
 }
 
 .nav-item > .nav-link:hover{
-  background-color: whitesmoke;
+  background-color: rgb(115, 224, 238);
   color: black;
 }
 
@@ -198,12 +198,12 @@ p.headline {
 }
 
 .nav-item:last-child > .nav-link i{
-  padding: 0.5em;
+  padding: 0.2em;
 }
 
 .nav-item:hover:last-child > .nav-link{
-  background-color: black;
-  color: white;
+  background-color: rgb(115, 224, 238);
+  color: rgb(0, 0, 0);
 }
 
 /* Profile
