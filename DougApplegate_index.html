@@ -6,20 +6,81 @@
     <title>Doug Applegate Portfolio</title>
     <link rel="stylesheet" href="../themillcodeschool/Project_CSS/styles.css">
     <script src="projectscript.js" defer></script>
+    <script src="https://kit.fontawesome.com/c590a8b920.js" crossorigin="anonymous"></script>
   </head>
 
   <body>
+
+      <div class="container">
+        <nav class="navbar" id="navID">
+        <button type="button" onclick="myFnc(this)" class="toggle-collapse" id="toggle-button">
+        <span class="toggle-icon"></span> 
+          </button>
+        
+
+        <ul class="side-nav">
+            <li class="nav-item">
+              <a href="#" class="site-name">Doug Applegate</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">About</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Education</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Contact</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#" class="nav-link"></a>
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-linkedin"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-youtube"></i>
+            </li>
+        </ul>
+
+        </nav>
+      </div>
+
+      <script>
+
+      function myFnc(e){
+
+        e.classList.toggle("show");
+
+        var elem = document.getElementById("navID"),
+        Style = window.getComputedStyle(elem),
+        right = Style.getPropertyValue("right");
+
+        if(right == "0px"){
+          elem.style.right = "-260px";
+        }else{
+          elem.style.right = "0px";
+        }
+
+      }
+      </script>
+
     <main>
       <!-- ***********************  ABOUT / PROFILE  *********************** -->
       <header>
         <section class= "background">
-          <div class= "content-wrap">
+         <div class= "content-wrap">
             <div class= "image-cropper">
               <img src="./Project_images/headshot2.jpg" class="profile-pic">
             </div>
             <h1>Doug Applegate</h1>
             <h2 class="light-blue">"It won't be easy but it'll be worth it!"</h2>
-
+            
             <p>Learner | Strategist | Problem Solver | Achiever | Entrepreneuer</p>
             <p class="headline">Welcome to my website! Take a look around and feel free to subscribe to 
               follow along my journey into web development or if your interested in any of the 
@@ -27,6 +88,7 @@
               media using the links below. You will also find an overview of my professional career and education.</p> 
           </div>
         </section>
+        
       </header>
 
       <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
@@ -49,7 +111,7 @@
                 <!--use the a href button to include a link to the project website-->
               </div>
             </div>
-            <h3 class= "example example2">Project Name</h3>
+            <h3 class= "example example2">1Fan.co</h3>
               <div class="grid-container">
                 <div class="grid-item">
                   <img src="Project_images/laptop-transparentbkg.png" alt="laptop_codingimage">
