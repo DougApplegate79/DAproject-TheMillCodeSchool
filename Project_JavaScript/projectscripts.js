@@ -1,9 +1,3 @@
-function openNav() {
-    document.getElementById("mySidebar").style.width = "250px";
-    document.getElementById("main").style.marginRight = "250px";
-  }
-
-  function closeNav() {
-    document.getElementById("mySidebar").style.width = "0";
-    document.getElementById("main").style.marginRight = "0";
-  }
+<script>src="/js/pdfobject.js"></script>
+<script>pdfobject.embed("C:\Users\DRA\OneDrive\Desktop\The Mill Code School related\themillcodeschool\Doug Applegate 2020 resume.pdf", "resume1");
+</script>

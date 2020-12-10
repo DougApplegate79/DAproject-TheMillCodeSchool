@@ -281,6 +281,12 @@ section p a {
   background-image: url(../Project_images/brick-wall-painted-white.jpg);
   background-size: contain;
 }
+
+.pdfobject{
+  height: 30rem; 
+  border: 1rem solid rgba(0,0,0,.1);
+}
+
 /* Education
 ---------------------------------------*/
 .education {
