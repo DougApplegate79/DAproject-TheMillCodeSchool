@@ -115,7 +115,7 @@ p.headline {
   height: 100%;
   background-color: black;
   text-align: center;
-  transition-property: 0.800s ease;
+  transition-property: 0.400s ease;
 }
 
 .navbar > .side-nav{
@@ -161,7 +161,7 @@ p.headline {
   background-color: black;
   border-radius: 2em;
   border: 1px solid black;
-  transition: 0.800s ease;
+  transition: 0.400s ease;
   margin-top: 0.8em;
 }
 

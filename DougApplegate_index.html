@@ -14,8 +14,8 @@
       <div class="container">
         <nav class="navbar" id="navID">
         <button type="button" onclick="myFnc(this)" class="toggle-collapse" id="toggle-button">
-        <span class="toggle-icon"></span> 
-          </button>
+          <span class="toggle-icon"></span> 
+        </button>
         
 
         <ul class="side-nav">
@@ -52,22 +52,20 @@
       </div>
 
       <script>
+        function myFnc(e){
+          
+          e.classList.toggle("show");
 
-      function myFnc(e){
+          var elem = document.getElementById("navID"),
+          Style = window.getComputedStyle(elem),
+          right = Style.getPropertyValue("right");
 
-        e.classList.toggle("show");
-
-        var elem = document.getElementById("navID"),
-        Style = window.getComputedStyle(elem),
-        right = Style.getPropertyValue("right");
-
-        if(right == "0px"){
-          elem.style.right = "-260px";
-        }else{
-          elem.style.right = "0px";
+          if(right == "0px"){
+            elem.style.right = "-260px";
+          }else{
+            elem.style.right = "0px";
+          }
         }
-
-      }
       </script>
 
     <main>
