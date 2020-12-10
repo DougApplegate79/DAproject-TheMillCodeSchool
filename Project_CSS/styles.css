@@ -65,6 +65,11 @@ h2.light-blue {
   margin: 0 auto;
   padding: 20px 0;
 }
+.content-wrap2 {
+  width: 80%;
+  margin: auto;
+}
+
 .background {
   background-image: url(../Project_images/contemporaryrainbowangles.jpg);
   background-size: cover;
@@ -282,6 +287,9 @@ section p a {
   background-size: contain;
 }
 
+.pdfobject-container{
+  margin: auto;
+}
 .pdfobject{
   height: 50rem;
   border: 1rem solid rgba(0,0,0,.1);
