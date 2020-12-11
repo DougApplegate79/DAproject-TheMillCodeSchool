@@ -162,11 +162,12 @@ p.headline {
 .toggle-icon::after{
   content: "";
   width: 30px;
-  position: fixed;
+  height: 5px;
+  position: absolute;
   background-color: black;
-  border-radius: 2em;
+  border-radius: 4em;
   border: 1px solid black;
-  transition: 0.400s ease;
+  transition: 0.300s ease;
   margin-top: 0.8em;
 }
 
@@ -241,7 +242,7 @@ a {
   color: black;
 }
 a:link {
-  color: rgb(31, 5, 90)
+  color: rgb(83, 102, 209)
 }
 a:visited {
   color: rgba(175, 27, 27, 0.952)
@@ -263,7 +264,7 @@ a:visited {
 /* ----- Button example style -----------------
 -------*/
 .projects a {
-  color: orange;
+  color: rgb(27, 2, 73);
   background: rgb(139, 133, 133);
   text-decoration: none;
   padding: 8px;
