@@ -162,15 +162,28 @@
         <h2>Education</h2>
 
         <!-- Copy this whole <section> block to add more schools. -->
-        <section>
-          <h3>Indiana University - Indianapolis, IN</h3>
-          <p>Bachelor of Arts, Communication Studies</p>
-          <p>Summary or accomplishments.</p>
-          <h3>Chowan University - Murfreesboro, NC</h3>
-          <p>Business Management coursework</p>
-          <p>Summary or accomplishments.</p>
-        </section>
-        </div>
+          <div class="grid-container2">
+            <div class="grid-item2">
+              <a href="https://www.iu.edu/index.html">
+                <img src="Project_images/1200px-Indiana_University_seal.svg.png" alt="Indiana University">
+              </a>
+            </div>
+            <div class="grid-item">
+              <h3>Indiana University - Indianapolis, IN</h3>
+              <p>Bachelor of Arts, Communication Studies</p>
+              <p>Summary or accomplishments.</p>
+            </div>
+            <div class="grid-item2">
+              <a href="https://www.chowan.edu/">
+                <img src="Project_images/chowan-logo.png" alt="Chowan University">
+              </a>
+            </div>
+            <div class="grid-item">
+              <h3>Chowan University - Murfreesboro, NC</h3>
+              <p>Business Management coursework</p>
+              <p>Summary or accomplishments.</p>
+            </div>
+          </div>
         <!-- End of School block. -->
       </section>
 
@@ -201,6 +214,29 @@
             </a>
           </li> 
         </ul>
+
+        <form action="action_page.php">
+          <div class="container">
+            <p>Connect with me using any of the social media options above. For a glimpse into my world consider signing up for 
+              my monthly community posts. Here you'll be able to follow along my journey into software development, learn and think along side me
+              as I muse about topics such as entrepreneurship, HR and recruiting, tech, venture capital and startups, and the occaisonal banter about 
+              sports, marriage, parenting, and music!
+            </p>
+          </div>
+        
+          <div class="container" style="background-color:rgba(180, 180, 180, 0.726)">
+            <input type="text" placeholder="Name" name="name" required>
+            <input type="text" placeholder="Email address" name="mail" required>
+            <label>
+              <input type="checkbox" checked="checked" name="subscribe"> Hello Doug! (a monthly blog/newsletter)
+            </label>
+          </div>
+        
+          <div class="container">
+            <input type="submit" value="Subscribe">
+          </div>
+        </form>
+
         <p>
           © Doug Applegate 2020-beyond
         </p>

@@ -299,8 +299,21 @@ section p a {
 /* Education
 ---------------------------------------*/
 .education {
-  background-image: url(../Project_images/bookrow-greybkg.jpg);
+  background-color: lightblue;
   background-size: cover;
+}
+
+.grid-container2 {
+  border: 2px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+}
+
+.grid-item2 {
+  border: 1px;
+  padding: 10px;
+  justify-content: space-around;
 }
 
 /* Contact Info
@@ -317,4 +330,40 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
+}
+/* no outer border for form */
+form {
+  border: none;
+}
+
+/* Add padding and a transparent background to containers */
+.container input:placeholder-shown {
+  padding: 10px;
+  color: white;
+}
+
+/* Styling text elements and the submit button */
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 18px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 3px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Add margins to the checkbox */
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+/* Styling for the submit button */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
 }
