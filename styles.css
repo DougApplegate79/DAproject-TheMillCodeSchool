@@ -1,0 +1,369 @@
+/* 
+Color Palette
+https://coolors.co/7a7978-02223c-b0e298-add3ff-6c0e23
+--sonic-silver: #7a7978ff;
+--oxford-blue: #02223cff;
+--granny-smith-apple: #b0e298ff;
+--baby-blue-eyes: #add3ffff;
+--burgundy: #6c0e23ff;
+*/
+
+
+/* Global Styles
+---------------------------------------*/
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  color: rgb(2, 10, 19);
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+}
+img {
+  width: 150px;
+}
+.image-cropper {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  display:inline-block;
+  margin: 0 auto;
+}
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -15%; /*centers the image*/
+  height: auto;
+  width: 250px;
+}
+
+h1 {
+  color: #02223cff;
+  font-family: 'Playfair Display', serif;
+  font-size: 65px;
+  margin: 0 auto;
+}
+h2.light-blue {
+  color: #b0e298ff;
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  text-align: center;
+}
+.content-wrap {
+  max-width: 900px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.content-wrap2 {
+  width: 80%;
+  margin: auto;
+}
+
+.background {
+  background-image: url(../Project_images/contemporaryrainbowangles.jpg);
+  background-size: cover;
+  padding: 2em;
+}
+
+h2.blue-text {
+  color: rgb(2, 10, 19);
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  text-align: center;
+}
+p.headline {
+  color: rgb(2, 10, 19);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.2;
+}  
+
+  /* Responsive
+---------------------------------------*/
+@media screen and (min-width: 750px) {
+  header, footer {
+    text-align: center;
+  }
+  .contact-list {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 749px) {
+  h1 {
+    font-size: 55px;
+    line-height: 0.9;
+    margin-bottom: 20px;
+  }
+  .contact-list a {
+  padding: 3px;
+}
+}
+
+.navbar{
+  position: absolute;
+  right: 0px;
+  width: 260px;
+  height: 100%;
+  background-color: black;
+  text-align: center;
+  transition-property: 0.400s ease;
+}
+
+.navbar > .side-nav{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item{
+  display: flex;
+}
+
+.nav-item > .nav-link{
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 1.1em;
+  padding: 1em;
+  flex: 1;
+}
+
+.nav-item > .nav-link:hover{
+  background-color: rgb(115, 224, 238);
+  color: black;
+}
+
+.toggle-collapse{
+  float: left;
+  margin-left: -3.3em;
+  margin-top: .5em;
+  content: "";
+  outline: inherit;
+  border: 0px;
+  background: transparent;
+}
+
+/* toggle icon */
+.toggle-icon,
+.toggle-icon::before,
+.toggle-icon::after{
+  content: "";
+  width: 30px;
+  height: 5px;
+  position: absolute;
+  background-color: black;
+  border-radius: 4em;
+  border: 1px solid black;
+  transition: 0.300s ease;
+  margin-top: 0.8em;
+}
+
+.toggle-icon::before{
+  position: absolute;
+  left: -1px;
+  margin-top: -0.8em;
+}
+
+.toggle-icon::after{
+  position: absolute;
+  left: -1px;
+  margin-top: 0.6em;
+  width: 20px;
+}
+
+.toggle-icon{
+  width: 15px;
+}
+
+.show .toggle-icon::after{
+  width: 30px;
+}
+
+.show .toggle-icon{
+  width: 30px;
+}
+
+.nav-item > .site-name{
+  text-decoration: none;
+  padding: 1.3em;
+  font-size: 2em;
+  color: whitesmoke;
+}
+
+.nav-item:last-child > .nav-link i{
+  padding: 0.2em;
+}
+
+.nav-item:hover:last-child > .nav-link{
+  background-color: rgb(115, 224, 238);
+  color: rgb(0, 0, 0);
+}
+
+/* Profile
+---------------------------------------*/
+header {
+  color: rgb(2, 10, 19);
+}
+.example {
+  color: orangered
+}
+.example2 {
+  color: rgb(2, 10, 19);
+  text-decoration-line: underline;
+}
+.example example2 {
+  font-size: 50px;
+}
+#example {
+  font-size: 100px;
+}
+
+/* Projects
+---------------------------------------*/
+
+.projects {
+  background-color: #add3ffff;
+}
+
+a {
+  color: black;
+}
+a:link {
+  color: rgb(83, 102, 209)
+}
+a:visited {
+  color: rgba(175, 27, 27, 0.952)
+}
+/* ---- Grid template for container and items ------*/
+
+.grid-container {
+  border: 2px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+}
+
+.grid-item {
+  border: 1px;
+  padding: 10px;
+  justify-content: space-around;
+}
+/* ----- Button example style -----------------
+-------*/
+.projects a {
+  color: rgb(27, 2, 73);
+  background: rgb(139, 133, 133);
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+.projects a:hover {
+  background: rgba(139, 133, 133, 80%);
+}
+.container p a {
+  color: blueviolet;
+}
+section p a {
+  color: orange;
+}
+
+/* Career Experience
+---------------------------------------*/
+
+.work-experience {
+  background-image: url(../Project_images/brick-wall-painted-white.jpg);
+  background-size: contain;
+}
+
+.pdfobject-container{
+  margin: auto;
+}
+.pdfobject{
+  height: 50rem;
+  border: 1rem solid rgba(0,0,0,.1);
+}
+
+/* Education
+---------------------------------------*/
+.education {
+  background-color: lightblue;
+  background-size: cover;
+}
+
+.grid-container2 {
+  border: 2px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+}
+
+.grid-item2 {
+  border: 1px;
+  padding: 10px;
+  justify-content: space-around;
+}
+
+/* Contact Info
+---------------------------------------*/
+footer {
+  background-image: url(../Project_images/blackheaderbackground.jpg);
+  color: #add3ffff;
+  padding: 20px;
+}
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+.contact-list a {
+  padding: 15px;
+  display: inline-block;
+}
+/* no outer border for form */
+form {
+  border: none;
+}
+
+/* Add padding and a transparent background to containers */
+.container input:placeholder-shown {
+  padding: 10px;
+  color: white;
+}
+
+/* Styling text elements and the submit button */
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 18px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 3px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Add margins to the checkbox */
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+/* Styling for the submit button */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}
